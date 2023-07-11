@@ -4,11 +4,12 @@
 
 }
 
-.container {
-  margin: 50px 0;
-  
-}
 
+
+.nav-link{
+  color: rgb(0, 255, 221) !important;
+  font-weight: 500 !important;
+}
 
 .bg-img-1 {
   background-image: url(../images/1.jpg);
@@ -436,11 +437,6 @@ td:nth-child(1) {
 td:nth-child(odd) {
   background-color: aliceblue;
 }
-
-
-
-
-
 
 
 #contact {
